@@ -1,1 +1,6 @@
 I am resolving a conflict in git
+<<<<<<< HEAD
+=======
+I like to eat sweets
+I want sleep
+>>>>>>> second-branch
